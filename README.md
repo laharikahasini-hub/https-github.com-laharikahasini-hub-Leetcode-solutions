@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/laharikahasini-hub/https-github.com-laharikahasini-hub-Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/laharikahasini-hub/https-github.com-laharikahasini-hub-Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Matrix
 |  |
 | ------- |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/laharikahasini-hub/https-github.com-laharikahasini-hub-Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/laharikahasini-hub/https-github.com-laharikahasini-hub-Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/laharikahasini-hub/https-github.com-laharikahasini-hub-Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/laharikahasini-hub/https-github.com-laharikahasini-hub-Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
 | ------- |
